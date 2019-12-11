@@ -13,6 +13,8 @@ Borrelia are a family of bacteria, and include various subspecies including Borr
 
 Lyme disease (LD), or Lyme borreliosis (LB), is the set of symptoms caused by being infected with Lyme bacteria, or just _Lyme_. In addition, there are a number of related terms, such as MSIDS (multi-system infectious disease symdrome), post-treatment Lyme disease syndrome (PTLDS) and "chronic" Lyme disease.
 
+Specific illnesses of Lyme disease may incluce "Lyme neuroborreliosis, Lyme arthritis, Lyme carditis" etc to indicate that the condition has been caused by Lyme disease.
+
 I am very sympathetic to the idea of post-treatment chronic Lyme disease, but be aware that your regular physician may not be, and you need to be able to communicate with them correctly and respectfully.
 
 ## How do you catch Lyme disease?
@@ -40,7 +42,27 @@ Unfortunately, a proportion of cases can lead to serious life-changing consequen
 
 Through vigilance, many cases of Lyme disease can be caught and treated early. But often the sufferer is ignorant of Lyme disease and many not get treated promptly, many not remember a specific tick bite, and may not have developed a rash.
 
-Then, the patient has a range of non-specific symptoms, and unfortnately may only be tested for Lyme disease at a very late stage. There is a standard blood test for Lyme disease, but there are many problems with it.
+Then, the patient has a range of non-specific symptoms, and unfortnately may only be tested for Lyme disease at a very late stage. GPs generally do not consider Lyme disease as a differential diagnosis, or may have learnt to be dismissive about Lyme disease. 
+
+The standard NHS criteria for diagnosing Lyme disease are:
+
+- A tick bite, a characteritic rash, and the onset of symptoms
+- Exposure to ticks, symptoms and a positive blood test.
+
+### Problems with the standard diagnosis
+
+Many people would not recognise a tick, or do not know if they have been bitten by one or whether it was attached or not. Symptoms can be delayed so there is no connection with a tick bite. Doctors do not consider asking patients if they have been bitten by anything.
+
+The rash is in many cases absent or unclear, or may have resolved by the time the patient sees the doctor, and the rash can be confused with many other skin conditions.
+
+Symptoms are too unspecific to be able to accurately confirm Lyme disease in many cases.
+
+This leaves the blood test. Many patients or doctors would not even know to ask to be tested for Lyme disease, and can have their concerns dismissed as hysteria.
+
+Testing for Lyme disease is done by a two stage process.
+
+There is a lot of controversy surrounding the blood test. 
+
 
 
 
