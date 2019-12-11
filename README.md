@@ -59,14 +59,33 @@ Symptoms are too unspecific to be able to accurately confirm Lyme disease in man
 
 This leaves the blood test. Many patients or doctors would not even know to ask to be tested for Lyme disease, and can have their concerns dismissed as hysteria.
 
-Testing for Lyme disease is done by a two stage process.
+Testing for Lyme disease is done by a two stage process, the ELISA and the Western Blot. Both of these tests measure the body's immune response to Borrelia which can take time to build up, and can produce many false-negatives. Also Borrelia baceria seem attack the immune system and make it hard for the body to produce suffiient antibioties - and therefore the correct immune response to the blood test.
 
-There is a lot of controversy surrounding the blood test. 
+The blood test cannot say when treatment has been successfully completed because it does not measure the bacteria directly.
 
+Finally we have the issue of CDC/Dearborn critiera. There have been some abitrary cut off about the number of bands on the Western Blot that are required to produce a positive result, based on completely flawed science, and the reponse by the CDC has been to simply tighten and tighen the critera for a positive diagnosis, in order to counteract internet hysteria.
 
+All of these issues raise serious concerns about the validity of the blood test. There are many patients who have exactly the same set of symptoms and circumstances following a tick bite, yet some are positive and some are not.
 
+Many people who are positive on the blood test can be dismissed as having a "false positive" - statistically this is rare, or "treated", having their concerns about Lyme disase dismissed.
+
+### Other blood tests
+
+The good thing about the 2-tier blood test is that if positive, you will get your illness acknowledged by the NHS, and you can get some treatment.
+
+For people though who failed the blood test, for example if their Western Blot fell short of the diagnosis criteria, then it becomes a diagnosis nightmare. The NHS does not know if you have Lyme disease or not, or could treat you speculatively. But all too often, a negative blood test is considered definitive by the NHS, and you will receive no further treatment, even though many people who fail the test initially can go on to pass it after some treatment and their immunity has built up.
+
+There are other tests available, for example the ELISPOT, which is supposed to be more sensitive, but this is not recognised by the NHS so will not gain you access to any more treatments. You can also test for coninfections, such as babesia, bartonella, ricketsia, analplasma and Chlamydia Pneumoniae, but the problem is that these tests are even more unreliable, and do not gain you access to any more treatment since they are all "cured" by the same antiobiotics used to cure Lyme disease and if the patient says otherwise then they should stop whinging.
+
+One test that can be quite useful is the CD3+/CD57- test. Again, the NHS does not use this information for anything, but can measure how immunosuppressed a patient is, and can be used to track your recovery.
 
 ## Treatment
 
-### Standard Lyme disases
+Once Lyme disease has been diagnosed, a GP can prescribe treatment. Typically this consists of 3 weeks of the antiobiotic doxycycline. Often, patients will make a full recovery during this period.
+
+## Coinfections
+
+
+
+
 
